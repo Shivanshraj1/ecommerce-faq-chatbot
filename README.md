@@ -1,5 +1,7 @@
 # E-commerce FAQ Chatbot
 
+E-commerce FAQ chatbot built with Python, NLP, TF-IDF, cosine similarity, and Streamlit.
+
 This internship project builds a chatbot that answers common e-commerce customer-support questions by matching a user's message with the most similar question in an FAQ dataset.
 
 ## Step 2: FAQ Dataset
