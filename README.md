@@ -135,3 +135,4 @@ Start the app:
 ```bash
 python -m streamlit run app.py
 ```
+Made with 💗 by SR
