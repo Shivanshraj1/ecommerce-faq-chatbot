@@ -21,7 +21,7 @@ This internship project answers common e-commerce customer-support questions by 
 ## Tech Stack
 
 - Python
-- NLT
+- NLTK
 - scikit-learn
 - Streamlit
 
